@@ -1,4 +1,4 @@
-# AWS CLI v2
+# AWS CLI v2xxx
 
 This bundle contains a built executable of the AWS CLI v2.
 
